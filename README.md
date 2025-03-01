@@ -3,3 +3,7 @@ This GSC Injector's source code is based on the GSC Injection process from Proje
 I would like to express my utmost respect and gratitude to Mr. Sku-111 for devising and implementing this injection process.
 
 Thank you always, and I support you.
+
+----------
+
+If you want to run custom GSC, you need to modify gsc-tool.
