@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="common">
+      <UniqueIdentifier>{5932df24-3a91-4467-a38e-cabb26ee946a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common\utils">
+      <UniqueIdentifier>{0ce88091-6935-4af2-83f1-3293f74ac903}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dllmain.h" />
+    <ClInclude Include="includes\common\utils\binary_resource.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\concurrency.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\finally.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\hardware_breakpoint.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\hook.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\http.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\io.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\memory.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\MinHook.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\nt.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\signature.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\smbios.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\string.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="includes\common\utils\thread.hpp">
+      <Filter>common\utils</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp" />
+    <ClCompile Include="includes\common\utils\binary_resource.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\hardware_breakpoint.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\hook.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\http.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\io.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\memory.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\nt.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\signature.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\smbios.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\string.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+    <ClCompile Include="includes\common\utils\thread.cpp">
+      <Filter>common\utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
