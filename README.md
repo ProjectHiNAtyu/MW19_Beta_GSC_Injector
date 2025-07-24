@@ -105,4 +105,32 @@ There's no need to pay, that's why I'm releasing the source code for these GSC I
 
 If you want GSC Injector for free, please get IDAPro or Ghidra and modify this source.
 
+= = = = = = = = = = = = = = =
+
+< Finally, about a certain Warzone AIO >
+
+The GSC Injection process that is executed by pressing the "Load script" button is not the Load_ScriptFile used in this source.
+
+It is a different process called Asset Pool, which I will not cover in my source, so please look into it yourself.
+
+Also, Asset Pool can change multiple GSCs.
+
+However, I don't think you should request that the creator of the AIO be able to change multiple GSCs with Asset Pool, and I hope you don't ask for anything either.
+
+He threw away the above benefits and compensation and released the AIO for free.
+
+The AIO should be fully paid, but since it is released for free, the AIO creator is not paid anything.
+
+You should not complain about the process that he spent months creating, even though it is a free release.
+
+If there is anyone who wants to rewrite multiple GSCs with Asset Pool GSC Injector, first try learning Asset Pool without complaining.
+
+Then try making your own Asset Pool GSC Injector and distribute it to everyone in the community for free.
+
+I think that's the attitude that someone seeking improvements to an Injector that has been released for free should have.
+
+Incidentally, I learned Asset Pool in order to make PS4 GSC Injectors for MWII and MWIII.
+
+You should also try your best to develop something; after using IDAPro for about a year, you'll be able to do a certain amount of reverse engineering.
+
 You can choose to modify this Beta GSC Injector for free, and I support whatever choice you make.
