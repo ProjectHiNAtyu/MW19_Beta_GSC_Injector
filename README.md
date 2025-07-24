@@ -107,6 +107,50 @@ If you want GSC Injector for free, please get IDAPro or Ghidra and modify this s
 
 = = = = = = = = = = = = = = =
 
+< Summary >
+
+I had a big conflict with a Warzone AIO creator last year.
+
+When he was talking about whether to release GSC Injector or not, I didn't want to wait for him to release it.
+
+So I argued with him, and I started learning IDAPro from Sku to port Load_ScriptFile.
+
+Because of that opportunity, I can now reverse engineer and create software on my own to a certain extent.
+
+Without that effort, the free GSC Injector source code would not have been released here now...
+
+(By the way, after various things happened and I reconciled with him.)
+
+Not only Injector, but my GSC Mod Menu is also like that.
+
+Those who know Maza and others will know that when I first joined Donetsk, the first GSC I released had much worse source code than it does now.
+
+Even from that time, while many general users of Donetsk were just playing, I continued to develop and research GSC.
+
+Thanks to that effort, mjkzy recognized it and shared iw8_mod with me. (Not iw8-mod)
+
+This allowed me to develop at a much faster pace and make non-standard mods.
+
+I continued to develop and improve it over and over again for months.
+
+The result is the current Project HiNAtyu GSC Mod Menu.
+
+In the end, there is only one thing I want to say.
+
+That is, "You cannot complete a work without effort."
+
+I think it is difficult to get something good for free without effort.
+
+If you can't get what you want for free, before discussing free or paid, first make an effort to modify the published source code.
+
+Only those who have made that effort should be able to discuss free or paid.
+
+Those who are not on the same developer's stage should learn coding and reverse engineering before arguing.
+
+You should first find out who spent a lot of time and effort analyzing the AIO you are using for free...
+
+= = = = = = = = = = = = = = =
+
 < Finally, about a certain Warzone AIO >
 
 The GSC Injection process that is executed by pressing the "Load script" button is not the Load_ScriptFile used in this source.
