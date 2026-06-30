@@ -184,3 +184,12 @@ Incidentally, I learned Asset Pool in order to make PS4 GSC Injectors for MWII a
 You should also try your best to develop something; after using IDAPro for about a year, you'll be able to do a certain amount of reverse engineering.
 
 You can choose to modify this Beta GSC Injector for free, and I support whatever choice you make.
+
+----------
+
+[ Contact ]
+ 
+- HiNAtyu
+- YouTube : https://www.youtube.com/@HiNAtyuRoom
+- Twitter : @hinatyu ( https://x.com/hinatyu )
+- Discord : hinatapoko ( https://discordapp.com/users/239453096026046464 )
